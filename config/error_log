@@ -1,0 +1,64 @@
+[18-Dec-2017 03:10:44 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/landmp6q/public_html/99projects.in/suggest/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/queue.php on line 18
+[18-Dec-2017 03:10:48 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/landmp6q/public_html/99projects.in/suggest/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/view.php on line 17
+[18-Dec-2017 03:10:52 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/landmp6q/public_html/99projects.in/suggest/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/cache.php on line 18
+[18-Dec-2017 03:10:56 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/landmp6q/public_html/99projects.in/suggest/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/mail.php on line 19
+[18-Dec-2017 03:11:00 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/landmp6q/public_html/99projects.in/suggest/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/app.php on line 15
+[19-Dec-2017 14:34:26 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/landmp6q/public_html/99projects.in/suggest/config/app.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/app.php on line 15
+[19-Dec-2017 14:34:29 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/landmp6q/public_html/99projects.in/suggest/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/broadcasting.php on line 18
+[19-Dec-2017 14:34:31 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/landmp6q/public_html/99projects.in/suggest/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/cache.php on line 18
+[19-Dec-2017 14:34:32 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/landmp6q/public_html/99projects.in/suggest/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/database.php on line 16
+[19-Dec-2017 14:34:34 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/landmp6q/public_html/99projects.in/suggest/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/filesystems.php on line 16
+[19-Dec-2017 14:34:35 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/landmp6q/public_html/99projects.in/suggest/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/mail.php on line 19
+[19-Dec-2017 14:34:37 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/landmp6q/public_html/99projects.in/suggest/config/queue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/queue.php on line 18
+[19-Dec-2017 14:34:38 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/landmp6q/public_html/99projects.in/suggest/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/services.php on line 18
+[19-Dec-2017 14:34:40 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/landmp6q/public_html/99projects.in/suggest/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/session.php on line 19
+[19-Dec-2017 14:34:42 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/landmp6q/public_html/99projects.in/suggest/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/view.php on line 17
+[21-Dec-2017 10:17:08 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/landmp6q/public_html/99projects.in/suggest/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/config/session.php on line 19

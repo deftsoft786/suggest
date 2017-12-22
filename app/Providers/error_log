@@ -1,0 +1,5 @@
+[20-Dec-2017 03:40:17 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Providers/AppServiceProvider.php on line 7
+[20-Dec-2017 03:40:18 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Providers/AuthServiceProvider.php on line 8
+[20-Dec-2017 03:40:20 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Providers/BroadcastServiceProvider.php on line 8
+[20-Dec-2017 03:40:21 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Providers/EventServiceProvider.php on line 8
+[20-Dec-2017 03:40:23 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Providers/RouteServiceProvider.php on line 8

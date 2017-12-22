@@ -1,0 +1,4 @@
+[21-Dec-2017 03:36:15 Etc/GMT] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[21-Dec-2017 03:36:17 Etc/GMT] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Http/Controllers/Auth/LoginController.php on line 8
+[21-Dec-2017 03:36:18 Etc/GMT] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Http/Controllers/Auth/RegisterController.php on line 10
+[21-Dec-2017 03:36:20 Etc/GMT] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Http/Controllers/Auth/ResetPasswordController.php on line 8

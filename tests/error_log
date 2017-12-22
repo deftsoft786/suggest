@@ -1,0 +1,2 @@
+[19-Dec-2017 14:39:22 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/landmp6q/public_html/99projects.in/suggest/tests/TestCase.php on line 7
+[21-Dec-2017 22:06:43 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/landmp6q/public_html/99projects.in/suggest/tests/TestCase.php on line 7

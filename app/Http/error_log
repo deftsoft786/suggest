@@ -1,0 +1,1 @@
+[20-Dec-2017 03:40:13 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Http/Kernel.php on line 7

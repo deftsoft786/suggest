@@ -1,0 +1,52 @@
+@media only screen and (max-width:991px){
+	/*== login css start ===*/
+section.form-section-outr .row .col-sm-6{ width:100%; display:inline-block;}	
+section.form-section-outr .right-sec{ margin-top:60px;}
+section.form-section-outr .right-sec{ padding-bottom:50px;}
+.right-form-sec-inner{ max-width:100%;}
+.pending-orders-table table{ table-layout: auto;}
+.user-table-outer .action-icons span + span{border:none; padding:0;}
+.dashboard-table.add-category label {  display: inline-block;  margin-bottom: 10px;  text-align: left;}
+.search-outr input{ width:300px;}
+.dashboard-table.add-category .add-category-inner-sec label{ margin-bottom:5px;}
+.add-category-inner-sec .form-group{ margin-bottom:10px;}
+/*== login css end ==*/
+}
+@media only screen and (max-width:767px){
+.dashboar-outr #wrapper .navbar-inverse{ height:auto;}
+.dashboar-outr nav .navbar-header{ width:100%;}
+.navbar-inverse .navbar-toggle{ background:#333;}
+.dashboar-outr #wrapper .navbar-inverse ul.top-nav{ float:right;}
+.dashboar-outr #wrapper .navbar-header{ display:inline-block; margin-bottom:10px;}
+.search-outr{ padding-left:15px; width:50%;}
+.search-outr input{ width:100%;}
+.navbar-inverse .navbar-toggle{ top:10px;}
+.navbar-collapse{ width:100%; padding:0; }
+.navbar-collapse.navbar-ex1-collapse ul{ margin-top:0;}
+#page-wrapper{ padding-top:70px;}
+.dashboar-outr #wrapper .side-nav { background: #0d2243 none repeat scroll 0 0;  top: 65px;}
+.previous-next-buttons.pull-right ul li a{ padding:8px 10px;}
+#wrapper{ padding:0;}
+.dashboar-outr #wrapper .navbar-collapse .side-nav {
+  background: #0d2243 none repeat scroll 0 0;
+  left: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+  top: 65px;
+  width: 100%;
+}
+
+}
+@media only screen and (max-width:599px){
+.dashboard-title .table-search-box.pull-right{ width:58%; float:right;}
+.dashboard-title .table-search-box.pull-right input{ width:100%;}
+}
+@media only screen and (max-width:480px){
+.previous-next-buttons.pull-right ul li a{ padding:8px 8px; font-size:12px;}
+.previous-next-buttons ul li:first-child {  display: none;}
+.previous-next-buttons ul li:last-child {  display: none;}
+.previous-next-buttons.pull-right {  display: inline-block;  text-align: center;  width: 100%; display:none;}
+.previous-next-buttons ul {  border: 1px solid #d7d7d7;  display: inline-block; width:auto;}
+#example_paginate.dataTables_paginate.paging_simple_numbers a, #example1_paginate.dataTables_paginate.paging_simple_numbers a{ padding:10px 10px;}
+}

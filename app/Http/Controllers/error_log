@@ -1,0 +1,6 @@
+[20-Dec-2017 15:46:31 Etc/GMT] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Http/Controllers/AdminController.php on line 11
+[20-Dec-2017 15:46:35 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Http/Controllers/Controller.php on line 10
+[20-Dec-2017 15:46:37 Etc/GMT] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Http/Controllers/CounsellingController.php on line 7
+[20-Dec-2017 15:46:39 Etc/GMT] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Http/Controllers/EngineeringController.php on line 7
+[20-Dec-2017 15:46:40 Etc/GMT] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Http/Controllers/StudyabroadController.php on line 7
+[20-Dec-2017 15:46:42 Etc/GMT] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Http/Controllers/WebController.php on line 7

@@ -1,0 +1,47 @@
+[20-Dec-2017 15:15:33 Etc/GMT] PHP Notice:  Undefined variable: data in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/edit_course.blade.php on line 100
+[20-Dec-2017 15:15:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/edit_course.blade.php on line 100
+[20-Dec-2017 15:15:33 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/edit_course.blade.php on line 101
+[20-Dec-2017 15:15:39 Etc/GMT] PHP Notice:  Undefined variable: data in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/edit_events.blade.php on line 58
+[20-Dec-2017 15:15:39 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/edit_events.blade.php on line 58
+[20-Dec-2017 15:15:39 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/edit_events.blade.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/edit_events.blade.php on line 59
+[20-Dec-2017 15:15:43 Etc/GMT] PHP Notice:  Undefined variable: data in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/edit_exam.blade.php on line 83
+[20-Dec-2017 15:15:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/edit_exam.blade.php on line 83
+[20-Dec-2017 15:15:48 Etc/GMT] PHP Notice:  Undefined variable: type in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/forget_pwd_page.blade.php on line 9
+[20-Dec-2017 15:15:48 Etc/GMT] PHP Notice:  Undefined variable: type in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/forget_pwd_page.blade.php on line 9
+[20-Dec-2017 15:15:57 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/header.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/header.blade.php on line 97
+[20-Dec-2017 15:16:27 Etc/GMT] PHP Notice:  Undefined variable: value in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/select_college.blade.php on line 64
+[20-Dec-2017 15:16:27 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/select_college.blade.php on line 64
+[20-Dec-2017 15:16:27 Etc/GMT] PHP Notice:  Undefined variable: value in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/select_college.blade.php on line 64
+[20-Dec-2017 15:16:27 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/select_college.blade.php on line 64
+[20-Dec-2017 15:16:37 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/sidebar.blade.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/sidebar.blade.php on line 14
+[20-Dec-2017 15:16:52 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/view_college.blade.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/view_college.blade.php on line 91
+[20-Dec-2017 15:16:58 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/view_college_course.blade.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/view_college_course.blade.php on line 105
+[20-Dec-2017 15:17:05 Etc/GMT] PHP Notice:  Undefined variable: name in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/view_college_data.blade.php on line 14
+[20-Dec-2017 15:17:05 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/view_college_data.blade.php on line 14
+[20-Dec-2017 15:17:08 Etc/GMT] PHP Notice:  Undefined variable: name in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/view_course_data.blade.php on line 14
+[20-Dec-2017 15:17:08 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/view_course_data.blade.php on line 14
+[20-Dec-2017 15:17:17 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/view_exam.blade.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/view_exam.blade.php on line 102
+[20-Dec-2017 15:47:30 Etc/GMT] PHP Notice:  Undefined variable: data in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/edit_college.blade.php on line 73
+[20-Dec-2017 15:47:30 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/edit_college.blade.php on line 73
+[20-Dec-2017 15:47:30 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/edit_college.blade.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/landmp6q/public_html/99projects.in/suggest/resources/views/admin/edit_college.blade.php on line 74

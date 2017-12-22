@@ -1,0 +1,3 @@
+[20-Dec-2017 15:46:45 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Http/Middleware/EncryptCookies.php on line 7
+[20-Dec-2017 15:46:49 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Http/Middleware/TrimStrings.php on line 7
+[20-Dec-2017 15:46:51 Etc/GMT] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/landmp6q/public_html/99projects.in/suggest/app/Http/Middleware/VerifyCsrfToken.php on line 7
